@@ -5,10 +5,10 @@ An basic example of a monorepo for a react app
 
 ## We want a file structure that looks like
 
-[] package.json
-[x] README.md
-[] /packages
-[]    /react-monorepo-app1
-[]    /react-monorepo-app2
-[]    /react-monorepo-component-lib
-[]    /react-monorepo-devtools
+- [ ] package.json
+- [x] README.md
+- [ ] /packages
+- [ ] /packages/react-monorepo-app1
+- [ ] /packages/react-monorepo-app2
+- [ ] /packages/react-monorepo-component-lib
+- [ ] /packages/react-monorepo-devtools
