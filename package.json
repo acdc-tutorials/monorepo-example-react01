@@ -1,0 +1,21 @@
+{
+  "name": "monorepo-example-react01",
+  "private": true,
+  "version": "1.0.0",
+  "description": "An basic example of a monorepo for a react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acdc-tutorials/monorepo-example-react01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acdc-tutorials/monorepo-example-react01/issues"
+  },
+  "homepage": "https://github.com/acdc-tutorials/monorepo-example-react01#readme"
+}
