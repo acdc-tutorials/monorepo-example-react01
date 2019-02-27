@@ -1,7 +1,9 @@
 {
   "name": "monorepo-example-react01",
   "private": true,
-  "workspaces": ["packages/*"],
+  "workspaces": [
+    "packages/*"
+  ],
   "version": "1.0.0",
   "description": "An basic example of a monorepo for a react app",
   "main": "index.js",
@@ -18,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/acdc-tutorials/monorepo-example-react01/issues"
   },
-  "homepage": "https://github.com/acdc-tutorials/monorepo-example-react01#readme"
+  "homepage": "https://github.com/acdc-tutorials/monorepo-example-react01#readme",
+  "devDependencies": {
+    "lerna": "^2.5.1"
+  }
 }
